@@ -27,32 +27,21 @@
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/ambujpandey1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/thisisambujp" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/ambujpandey365" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/ambuj_pandey" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:ambujp863@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🎓 Education  
+- 🎓 **B.Tech in AIML (2022–2026)** – Greater Noida Institute of Technology (AKTU) | CGPA: 8.01  
+- 🏫 **Intermediate (12th, 2019–2021)** – Rais Ahmad Inter College, UP Board | 81.6%  
+- 🏫 **High School (10th, 2017–2019)** – Fazel E Rahamania Inter College, UP Board | 83.01%  
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,mysql,java,cpp,python,git,github,docker,aws,firebase,postman,figma&perline=10" />
-</p>
+### 🛠️ Skills  
+- **Languages**: Java, JavaScript, C, Python, SQL  
+- **Web/Frameworks**: HTML, CSS, React.js, Node.js, Express.js, Next.js  
+- **DSA**: String, Array, Linked List, Stack, Queue, Tree, Dynamic Programming  
+- **Databases**: MongoDB, MySQL  
+- **Testing**: React Testing Library (RTL), Jest  
+- **AI/ML & Data Analytics**: NumPy, Pandas, Matplotlib  
+- **CS Fundamentals**: AI, ML, OOPS, DBMS, CN, OS, SE, SPM  
 
 ---
 
@@ -66,7 +55,7 @@
       <img src="https://img.shields.io/badge/Live%20Demo-%2300C853.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
   </p>
-  <p align="center">A smart coding platform built with MERN stack, focusing on real-time collaboration and productivity.</p>
+  <p align="center">AI-powered Code Editor with auto-suggestions, authentication, and real-time collaboration.</p>
 </td>
 <td width="50%">
   <h3 align="center">📊 PolitiTrade</h3>
@@ -75,10 +64,55 @@
       <img src="https://img.shields.io/badge/Repo-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
-  <p align="center">A Political Trading Platform for Indian Politicians and Local Leaders, mixing stock market dynamics with politics.</p>
+  <p align="center">A Political Trading Platform for Indian Politicians & Local Leaders.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <h3 align="center">📑 DocuBrain</h3>
+  <p align="center">
+    <a href="https://github.com/ambujpandey1" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p align="center">AI-Powered PDF Analyzer for smart summaries, Q&A, and auto-quizzes.</p>
+</td>
+<td width="50%">
+  <h3 align="center">😊 EmotionIQ</h3>
+  <p align="center">
+    <a href="https://github.com/ambujpandey1" target="_blank">
+      <img src="https://img.shields.io/badge/Repo-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p align="center">AI-based Sentiment & Emotion Analysis tool using NLP & ML.</p>
 </td>
 </tr>
 </table>
+
+---
+
+### 🏆 Achievements  
+- 🥇 **1st Position** – CodQuest 84.0 (Data Analyst Challenge, LetsUpgrade, 3rd Year)  
+- 🥉 **3rd Position** – Blind Coding Competition (DSA Challenge, GNIOT, 2nd Year)  
+- 🎖️ **Top 5 Finalist** – Coding Combat Competition (DSA Challenge, GNIOT, 1st Year)  
+- ✅ Solved **300+ Problems on LeetCode** & **100+ on GeeksForGeeks**  
+
+---
+
+### 🎯 Extra-Curricular Activities  
+- 🚀 Hackathon Participant – **HackWithUttrakhand, HackOClock**  
+- 🎨 **Design Forge 2025** – UI/UX Challenge by YouTube India & CSI SRM  
+- 🗣️ Debate Competitions – Represented college in inter-department debates  
+
+---
+
+### 📜 Training & Certifications  
+- 🎓 **AIML Training** – E & ICT Academy, IIT Kanpur *(May 2025 – Aug 2025)*  
+- 🎓 **CRP Training** – CSDC GNIOT *(May 2025 – Aug 2025)*  
+- 📜 AMCAT Certified for IT Industry  
+- 📜 Corporate Foundation Expert Program (CSDC)  
+- 📜 Student Development Program on C (E & ICT)  
+- 📜 Corporate Transition Learner Program (CSDC)  
 
 ---
 
@@ -92,13 +126,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujpandey1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 🏆 Achievements  
-- 🎖️ Contributor at **GirlScript Summer of Code**  
-- 🥇 Hackathon Participation: **HackWithUttrakhand** (Team Brocomotive)  
-- 💡 Industry-Academia Interaction Program @ **Softpro India (AI/ML Internship)**  
 
 ---
 
