@@ -26,6 +26,32 @@
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/10AvqqboME5IYn7iqKNjBFMBCZ9NAlqzu/view)  
 
 ---
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/ambujpandey1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thisisambujp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ambuj_pandey" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/ambujpandey365" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:ambujp863@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ 
+</p>
+
+---
+
+---
 
 ### 🎓 Education  
 - 🎓 **B.Tech in AIML (2022–2026)** – Greater Noida Institute of Technology (AKTU) | CGPA: 8.01  
